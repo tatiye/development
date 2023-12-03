@@ -10,18 +10,109 @@
     "version": "0.0.4",
     "package":[
         {
-          "title": "Demo",
+          "title": "profil",
+          "package": "Profil",
           "icon":  "package",
-          "status": true,
+          "status": 0,
           "version": "0.0.1",
-          "lisensi": "E368B-99387-46FA0-90D6A"
+          "api_version": "0.1"
+        },
+        {
+          "title": "devices",
+          "package": "Devices",
+          "icon":  "package",
+          "status": 0,
+          "version": "0.0.1",
+          "api_version": "0.1"
         },
         {
           "title": "Demo",
+          "package": "demo",
           "icon":  "package",
           "status": true,
           "version": "0.0.1",
-          "lisensi": "E368B-99387-46FA0-90D6A"
+          "api_version": "0.1"
+        },
+        {
+          "title": "Datatables",
+          "package": "Datatables",
+          "icon":  "package",
+          "status": true,
+          "version": "0.0.1",
+          "api_version": "0.1"
+        },
+        {
+          "title": "Rbac",
+          "package": "rbac",
+          "icon":  "package",
+          "status": true,
+          "version": "0.0.1",
+          "api_version": "0.1"
+        },
+        {
+          "title": "Office",
+          "package": "office",
+          "icon":  "package",
+          "status": true,
+          "version": "0.0.1",
+          "api_version": "0.1"
+        },
+        {
+          "title": "Postingan",
+          "package": "postingan",
+          "icon":  "layout",
+          "status": true,
+          "version": "0.0.1",
+          "api_version": "0.1"
+        },
+
+        {
+          "title": "Buku Kas",
+          "package": "bukukas",
+          "icon":  "package",
+          "status": true,
+          "version": "0.0.1",
+          "api_version": "0.1"
+        },
+        {
+          "title": "Pricing",
+          "package": "pricing",
+          "icon":  "trending-up",
+          "status": true,
+          "version": "0.0.1",
+          "api_version": "0.1"
+        },
+        {
+          "title": "Item Produk",
+          "package": "item",
+          "icon":  "pie-chart",
+          "status": true,
+          "version": "0.0.1",
+          "api_version": "0.1"
+        },
+        {
+          "title": "Payment",
+          "package": "payment",
+          "icon":  "credit-card",
+          "status": true,
+          "version": "0.0.1",
+          "api_version": "0.1"
+        },
+        {
+          "title": "Biling",
+          "package": "biling",
+          "icon":  "server",
+          "status": true,
+          "version": "0.0.1",
+          "api_version": "0.1"
+        },
+        {
+          "title": "Portfolio",
+          "package": "Portfolio",
+          "icon":  "package",
+          "status": true,
+          "version": "0.0.1",
+          "api_version": "0.1"
         }
     ],
     "authors": [
