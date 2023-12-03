@@ -10,11 +10,18 @@
     "version": "0.0.4",
     "package":[
         {
-            "profil":["profil","package","0.0.1"],
-            "office":["office","package","0.0.1"],
-            "office":["office","package","0.0.1"],
-            "demo"  :["demo","package","0.0.1"],
-            "rbac"  :["rbac","package","0.0.1"]
+          "title": "Demo",
+          "icon":  "package",
+          "status": true,
+          "version": "0.0.1",
+          "lisensi": "E368B-99387-46FA0-90D6A"
+        },
+        {
+          "title": "Demo",
+          "icon":  "package",
+          "status": true,
+          "version": "0.0.1",
+          "lisensi": "E368B-99387-46FA0-90D6A"
         }
     ],
     "authors": [
