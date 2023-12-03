@@ -1,0 +1,34 @@
+
+{
+    "name": "tatiye/development",
+    "title": "Development Package Ngorei",
+    "description": "Development Package Ngorei",
+    "homepage": "https://github.com/tatiye/development.git",
+    "license": "MIT",
+    "icon":  "package",
+    "status": true,
+    "version": "0.0.4",
+    "package":[
+        {
+            "profil":["profil","package","0.0.1"],
+            "office":["office","package","0.0.1"],
+            "office":["office","package","0.0.1"],
+            "demo"  :["demo","package","0.0.1"],
+            "rbac"  :["rbac","package","0.0.1"]
+        }
+    ],
+    "authors": [
+        {
+            "name": "tatiye",
+            "email": "info@tatiye.net"
+        }
+    ],
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require": {
+       "php": "^7.4|^8.0"
+    }
+}
